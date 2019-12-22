@@ -1,0 +1,21 @@
+{
+  "name": "language-recap",
+  "main": "./lib/language-recap",
+  "version": "0.1.0",
+  "description": "Text highliting for dry cargo contracts",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-recap:toggle"
+  },
+  "repository": "https://github.com/atom/language-recap",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

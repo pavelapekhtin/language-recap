@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-recap",
+        "command": "language-recap:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-recap",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-recap:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
