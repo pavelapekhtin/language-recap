@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "language-recap:toggle"
   },
-  "repository": "https://github.com/atom/language-recap",
+  "repository": "https://github.com/pavelapekhtin/language-recap",
   "license": "Apache-2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
