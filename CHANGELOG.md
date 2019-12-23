@@ -1,4 +1,4 @@
-## 0.1.4 - More terms
+## 0.1.6 - More terms
 * added more keywords
 * fixed the m/v issue
 
