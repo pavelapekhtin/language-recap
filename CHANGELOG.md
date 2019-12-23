@@ -1,3 +1,6 @@
+## 0.1.3 - Bugfixes
+* Fixed a bug that prevented grammar from loading
+
 ## 0.1.2 - Minor patch
 * More units added
 * Bug fixes
