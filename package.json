@@ -1,7 +1,7 @@
 {
   "name": "language-recap",
   "main": "./lib/language-recap",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Text highliting for dry cargo contracts",
   "keywords": [
     "syntax",
