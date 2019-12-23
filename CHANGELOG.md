@@ -1,7 +1,3 @@
-## 0.1.4 - More terms
-* added more keywords
-* fixed the m/v issue
-
 ## 0.1.3 - Bugfixes
 * Fixed a bug that prevented grammar from loading
 
