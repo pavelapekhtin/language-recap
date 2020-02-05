@@ -1,3 +1,7 @@
+## 0.1.7 - Fixes
+* fixed "CHARTERERS" liting up the whole paragraph
+* added some not very obviously spelled words like "dischrates"
+
 ## 0.1.6 - More terms
 * added more keywords
 * fixed the m/v issue
